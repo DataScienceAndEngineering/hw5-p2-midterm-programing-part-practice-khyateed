@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sFAuYN8c)
 # csci1910s24hw5p2, CSCi 1910, Spring 2024, Homework 5, Problem 2, Midterm Programing Part Practice
 
 The programming part of the exam will have you solve a deep learning problem by reading some data and performing a task such as classification or regression, covered within  chapters 1-10 and lectures 1-7. You can look through these examples.
